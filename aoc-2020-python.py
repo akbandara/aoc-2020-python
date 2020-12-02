@@ -11,7 +11,7 @@ aoc_part = int(sys.argv[2])
 
 if aoc_day == 1:
     aoc2020_day1.solve(aoc_part)
-if aoc_day == 2:
+elif aoc_day == 2:
     aoc2020_day2.solve(aoc_part)
 else:
     print('No solution for Day ', aoc_day, ' Part ', aoc_part)
