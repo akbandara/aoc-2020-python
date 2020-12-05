@@ -7,3 +7,4 @@ Run code by specifying the AOC day and part to be solved, e.g., to solve Day 1, 
 
  * **Day 1:** "Report Repair" - iteration, arithmetic calculation and exhaustive search (aoc2020_day1.py)
  * **Day 2:** "Password Philosophy" - iteration, string parsing and searching (aoc2020_day2.py)
+ * **Day 3:** "Toboggan Trajectory" - iteration, modulo arithmetic, string parsing (aoc2020_day3.py)
